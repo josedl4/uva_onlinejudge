@@ -1,5 +1,3 @@
-package e10019;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
